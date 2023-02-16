@@ -29,6 +29,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 To gain a better understanding of flexbox
 
 ## Author
--Github -[@nadrsturk]
+
 - Frontend Mentor - [@nadrsturk](https://www.frontendmentor.io/profile/nadrsturk)
 
