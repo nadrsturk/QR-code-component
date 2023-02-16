@@ -1,0 +1,54 @@
+*{    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    img {
+    max-width: 100%;
+    border-radius: 7px;
+    margin-bottom: 10px;
+    }
+    
+    body {
+    font-family: "Outfit", sans-serif;
+    font-size: 15px;
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: calc(100vh - 2px);
+    margin: 10px;
+    }
+    
+    main.container {
+    background-color: hsl(0, 0%, 100%);
+    padding: 24px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.05);
+    margin-bottom: 10px;
+    width: 400px;
+    border-radius:0.8rem;
+    }
+    
+    main.container h1 {
+    text-align: center;
+    color: hsl(218, 44%, 22%);
+    margin-bottom: 12px;
+    }
+    
+    main.container p {
+    color: hsl(220, 15%, 55%);
+    text-align: center;
+    }
+    
+    .attribution {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 35px;
+    }
+    
+    .attribution a {
+    color: hsl(228, 45%, 44%);
+    }
+    /*
+    I'm so excited to be taking on my first challenge in this amazing community! It was the perfect opportunity for me to put my HTML and CSS skills to the test, and I've already learned so much from trying to center the elements using flexbox. I love how everyone here is so supportive and always willing to lend a hand, so I'd really appreciate any feedback or tips you can share with me.
+By the way, I've actually started two other challenges, so I'll be posting those in the next few days too. I'm eager to keep pushing myself and exploring new concepts, and I'm grateful to be part of a community that encourages me to do so 😀/*
